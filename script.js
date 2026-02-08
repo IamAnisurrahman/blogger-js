@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Safety Engineer", "Safety Engineer", "HSE Advisor", "I.T Engineer"],
+        strings: ["HSE Specialist", "Safety Engineer", "HSE Advisor", "HSE Supervisor"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Safety Engineer", "Safety Engineer", "HSE Advisor", "I.T Engineer"],
+        strings: ["HSE Specialist", "Safety Engineer", "HSE Advisor", "HSE Supervisor"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -71,5 +71,3 @@ $(document).ready(function(){
         }
     });
 });
-
-
